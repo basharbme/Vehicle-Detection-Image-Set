@@ -13,6 +13,6 @@ This dataset is for machine learning process and computer vision steps.
 
 **17760 images**
 
-# DataSet
+<!-- # DataSet -->
 
 <!-- https://www.kaggle.com/brsdincer/vehicle-detection-image-set/download -->
